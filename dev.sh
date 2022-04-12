@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-while true:
+while true
 do 
   git pull
 
